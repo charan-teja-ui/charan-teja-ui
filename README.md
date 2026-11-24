@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/charan-teja-14960b34a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charan-teja-14960b34a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/charan_1906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="charan_1906" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/jazzcharan758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/jazzcharan758" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/profile/charan_1906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="profile/charan_1906" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/charan_1906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="profile/charan_1906" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/charan_1906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charan_1906" height="30" width="40" /></a>
 </p>
 
